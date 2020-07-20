@@ -7,13 +7,39 @@ import pathlib
 import os
 import re
 
-from python_graphql_client import GraphqlClient
+from dotenv import load_dotenv
+from gql import gql, Client
+from gql.transport.requests import RequestsHTTPTransport
 
+load_dotenv()
 
 root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("API_TOKEN", "")
+
+_client: Client = None
+
+
+def get_client():
+
+    global _client
+
+    if _client is not None:
+        return _client
+
+    sample_transport = RequestsHTTPTransport(
+        url="https://api.github.com/graphql",
+        use_json=True,
+        headers={
+            "Content-type": "application/json",
+            "Authorization": f"Bearer {TOKEN}",
+        },
+        verify=True,
+        retries=3,
+    )
+
+    _client = Client(transport=sample_transport, fetch_schema_from_transport=True,)
+    return _client
 
 
 def replace_chunk(content, marker, chunk, inline=False):

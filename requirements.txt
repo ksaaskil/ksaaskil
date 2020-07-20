@@ -1,1 +1,2 @@
-python-graphql-client==0.3.0
+gql==2.0.0
+python-dotenv==0.14.0
