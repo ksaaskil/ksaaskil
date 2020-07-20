@@ -8,7 +8,7 @@ import os
 import re
 
 from dotenv import load_dotenv
-from gql import gql, Client
+from gql import Client
 from gql.transport.requests import RequestsHTTPTransport
 
 load_dotenv()
