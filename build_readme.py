@@ -2,7 +2,7 @@
 Inspired by and some of the code copied from
 https://github.com/simonw/simonw/blob/main/build_readme.py
 """
-from datetime import datetime
+from datetime import datetime, timezone
 import pathlib
 import os
 import re
@@ -32,10 +32,10 @@ if __name__ == "__main__":
 
     readme_content = readme.open("r").read()
 
-    updated_at_md = "Updated at {date}".format(date=datetime.now())
+    updated_at_md = "Updated at {date}.".format(
+        date=datetime.now(timezone.utc).isoformat()
+    )
 
     rewritten = replace_chunk(readme_content, "updated_at", updated_at_md)
 
-    new_readme_content = readme_content  # TODO
-
-    readme.open("w").write(new_readme_content)
+    readme.open("w").write(rewritten)
