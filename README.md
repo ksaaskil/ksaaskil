@@ -3,5 +3,5 @@ Hi! I'm Kimmo, a software developer at [Silo AI](https://silo.ai/).
 See me online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- updated_at starts -->
-Updated at 2020-07-26T19:34:00.926578+00:00.
+Updated at 2020-07-26T20:33:54.525088+00:00.
 <!-- updated_at ends -->
