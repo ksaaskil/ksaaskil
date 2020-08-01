@@ -3,6 +3,7 @@ Inspired by and some of the code copied from
 https://github.com/simonw/simonw/blob/main/build_readme.py.
 
 GraphQL queries, parsing, and tests written by me.
+https://developer.github.com/v4/explorer/
 """
 from datetime import datetime, timezone
 from dataclasses import dataclass
