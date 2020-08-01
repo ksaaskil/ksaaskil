@@ -27,14 +27,15 @@ _client: Client = None
 
 REPOSITORIES_QUERY = gql(
     """
-query($number_of_repos:Int!) {
+query($number_of_repos:Int!, $desc_by:RepositoryOrderField!) {
   viewer {
-     repositories(first: $number_of_repos, orderBy: {field:STARGAZERS, direction:DESC}) {
+     repositories(first: $number_of_repos, orderBy: {field:$desc_by, direction:DESC}) {
        totalCount
        nodes {
          name
          forkCount
 		 url
+         updatedAt
          stargazers {
           totalCount
          }
@@ -51,6 +52,7 @@ class Repository:
     name: str
     stars: int
     forks: int
+    updated_at: datetime
     url: str
 
 
@@ -68,16 +70,21 @@ def gql_response_to_repositories(
                 stars=repo["stargazers"]["totalCount"],
                 forks=repo["forkCount"],
                 url=repo["url"],
+                updated_at=datetime.strptime(repo["updatedAt"], "%Y-%m-%dT%H:%M:%S%z"),
             )
             for repo in nodes
         ],
     )
 
 
-def get_repositories(count=5):
+DESC_BY = typing.Union[typing.Literal["STARGAZERS"], typing.Literal["UPDATED_AT"]]
+
+
+def get_repositories(desc_by: DESC_BY, count=5):
     client = get_client()
-    params = {"number_of_repos": count}
+    params = {"number_of_repos": count, "desc_by": desc_by}
     response_data = client.execute(REPOSITORIES_QUERY, variable_values=params)
+    print(response_data)
     return gql_response_to_repositories(response_data)
 
 
@@ -129,12 +136,26 @@ def build_repositories_content(count: int, repos: typing.Sequence[Repository]) -
 """
 
 
+def build_most_recent_repos_content(repos: typing.Sequence[Repository]) -> str:
+    def repo_to_line(repo):
+        return f"|[{repo.name}]({repo.url})|{repo.stars}|{repo.forks}|{datetime.strftime(repo.updated_at, '%Y-%m-%d')}"
+
+    return f"""
+## Most recently updated
+| Name        | Stars           | Forks  | Updated at
+| ------------- |-------------| -----|-----|
+{os.linesep.join([repo_to_line(repo) for repo in repos])}
+"""
+
+
 if __name__ == "__main__":
     readme = root / "README.md"
 
-    total_count, repositories = get_repositories()
+    total_count, repositories = get_repositories(desc_by="STARGAZERS")
+    _, most_recent_repos = get_repositories(desc_by="UPDATED_AT")
 
     repositories_content = build_repositories_content(total_count, repositories)
+    recent_repos_content = build_most_recent_repos_content(most_recent_repos)
 
     readme_content = readme.open("r").read()
 
@@ -145,5 +166,7 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_content, "updated_at", updated_at_md)
 
     rewritten = replace_chunk(rewritten, "repositories", repositories_content)
+
+    rewritten = replace_chunk(rewritten, "recent_repositories", recent_repos_content)
 
     readme.open("w").write(rewritten)
