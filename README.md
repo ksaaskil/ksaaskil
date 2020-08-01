@@ -21,9 +21,9 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 | ------------- |-------------| -----|-----|
 |[ksaaskil](https://github.com/ksaaskil/ksaaskil)|0|0|2020-08-01
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|4|0|2020-08-01
+|[posenet-demo](https://github.com/ksaaskil/posenet-demo)|0|0|2020-08-01
+|[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2020-07-31
 |[dotfiles](https://github.com/ksaaskil/dotfiles)|0|0|2020-07-31
-|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|0|0|2020-07-29
-|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|7|3|2020-07-23
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->

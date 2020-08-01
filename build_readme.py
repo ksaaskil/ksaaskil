@@ -35,7 +35,7 @@ query($number_of_repos:Int!, $desc_by:RepositoryOrderField!) {
          name
          forkCount
 		 url
-         updatedAt
+         pushedAt
          stargazers {
           totalCount
          }
@@ -70,14 +70,14 @@ def gql_response_to_repositories(
                 stars=repo["stargazers"]["totalCount"],
                 forks=repo["forkCount"],
                 url=repo["url"],
-                updated_at=datetime.strptime(repo["updatedAt"], "%Y-%m-%dT%H:%M:%S%z"),
+                updated_at=datetime.strptime(repo["pushedAt"], "%Y-%m-%dT%H:%M:%S%z"),
             )
             for repo in nodes
         ],
     )
 
 
-DESC_BY = typing.Union[typing.Literal["STARGAZERS"], typing.Literal["UPDATED_AT"]]
+DESC_BY = typing.Union[typing.Literal["STARGAZERS"], typing.Literal["PUSHED_AT"]]
 
 
 def get_repositories(desc_by: DESC_BY, count=5):
@@ -152,7 +152,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
 
     total_count, repositories = get_repositories(desc_by="STARGAZERS")
-    _, most_recent_repos = get_repositories(desc_by="UPDATED_AT")
+    _, most_recent_repos = get_repositories(desc_by="PUSHED_AT")
 
     repositories_content = build_repositories_content(total_count, repositories)
     recent_repos_content = build_most_recent_repos_content(most_recent_repos)
