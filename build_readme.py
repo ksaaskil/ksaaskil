@@ -58,8 +58,8 @@ if __name__ == "__main__":
 
     readme_content = readme.open("r").read()
 
-    updated_at_md = "Updated at {date}.".format(
-        date=datetime.now(timezone.utc).isoformat()
+    updated_at_md = "Repository updated on {date}.".format(
+        date=datetime.now(timezone.utc).strftime("%A, %d. %B %Y")
     )
 
     rewritten = replace_chunk(readme_content, "updated_at", updated_at_md)
