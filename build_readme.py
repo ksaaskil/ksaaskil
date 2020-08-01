@@ -122,7 +122,7 @@ def build_repositories_content(count: int, repos: typing.Sequence[Repository]) -
         return f"|[{repo.name}]({repo.url})|{repo.stars}|{repo.forks}"
 
     return f"""
-## Repositories ({count} in total)
+## Repositories with most stars ([{count} in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 {os.linesep.join([repo_to_line(repo) for repo in repos])}

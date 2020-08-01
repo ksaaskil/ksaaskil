@@ -4,7 +4,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- repositories starts -->
 
-## Repositories (71 in total)
+## Repositories with most stars ([71 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|7|3
@@ -15,5 +15,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- repositories ends -->
 <!-- updated_at starts -->
-Repository updated on Saturday, 01. August 2020.
+Table updated on Saturday, 01. August 2020.
 <!-- updated_at ends -->
