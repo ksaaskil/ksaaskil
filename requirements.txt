@@ -1,2 +1,4 @@
 gql==2.0.0
 python-dotenv==0.14.0
+lenses==1.0.0
+pytest==6.0.1
