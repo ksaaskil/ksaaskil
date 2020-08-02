@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 01. August 2020.
+Table updated on Sunday, 02. August 2020.
 <!-- updated_at ends -->
