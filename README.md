@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|0|0|2020-08-05
 |[python-services-monorepo](https://github.com/ksaaskil/python-services-monorepo)|0|0|2020-08-04
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|4|0|2020-08-04
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|0|0|2020-08-04
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2020-08-02
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-08-02
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Wednesday, 05. August 2020.
+Table updated on Thursday, 06. August 2020.
 <!-- updated_at ends -->
