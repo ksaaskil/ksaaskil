@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-08-18
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-08-19
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|0|0|2020-08-09
 |[python-services-monorepo](https://github.com/ksaaskil/python-services-monorepo)|0|0|2020-08-04
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|5|0|2020-08-04
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Wednesday, 19. August 2020.
+Table updated on Thursday, 20. August 2020.
 <!-- updated_at ends -->
