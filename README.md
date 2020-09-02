@@ -11,7 +11,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|5|0
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|3|1
 |[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0
+|[liquid-solid](https://github.com/ksaaskil/liquid-solid)|2|2
 
 <!-- repositories ends -->
 <!-- recent_repositories starts -->
@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-08-31
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-09-01
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-08-22
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|0|0|2020-08-09
 |[python-services-monorepo](https://github.com/ksaaskil/python-services-monorepo)|0|0|2020-08-04
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Tuesday, 01. September 2020.
+Table updated on Wednesday, 02. September 2020.
 <!-- updated_at ends -->
