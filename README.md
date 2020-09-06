@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-09-05
 |[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2020-09-04
 |[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2020-09-04
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-09-04
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-08-22
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|0|0|2020-08-09
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 05. September 2020.
+Table updated on Sunday, 06. September 2020.
 <!-- updated_at ends -->
