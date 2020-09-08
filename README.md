@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[katacoda-playground](https://github.com/ksaaskil/katacoda-playground)|0|0|2020-09-06
-|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|5|0|2020-09-06
-|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2020-09-06
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-09-06
-|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2020-09-04
+|[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2020-09-07
+|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|5|0|2020-09-07
+|[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2020-09-07
+|[codesandbox-jest-ts-node](https://github.com/ksaaskil/codesandbox-jest-ts-node)|0|0|2020-09-07
+|[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|3|1|2020-09-07
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Monday, 07. September 2020.
+Table updated on Tuesday, 08. September 2020.
 <!-- updated_at ends -->
