@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-09-13
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|3|1|2020-09-12
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2020-09-12
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-09-12
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-09-09
 |[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2020-09-09
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Sunday, 13. September 2020.
+Table updated on Monday, 14. September 2020.
 <!-- updated_at ends -->
