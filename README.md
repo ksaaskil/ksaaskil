@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-09-30
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-10-01
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-09-20
 |[node-forge-signing-certs](https://github.com/ksaaskil/node-forge-signing-certs)|0|0|2020-09-17
 |[priority-todo-app](https://github.com/ksaaskil/priority-todo-app)|0|0|2020-09-16
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Thursday, 01. October 2020.
+Table updated on Friday, 02. October 2020.
 <!-- updated_at ends -->
