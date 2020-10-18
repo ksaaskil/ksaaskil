@@ -4,7 +4,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- repositories starts -->
 
-## Repositories with most stars ([74 in total](https://github.com/ksaaskil?tab=repositories))
+## Repositories with most stars ([75 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|7|3
@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-10-16
+|[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|0|0|2020-10-17
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-10-17
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-09-20
 |[node-forge-signing-certs](https://github.com/ksaaskil/node-forge-signing-certs)|0|0|2020-09-17
 |[priority-todo-app](https://github.com/ksaaskil/priority-todo-app)|0|0|2020-09-16
-|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2020-09-16
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 17. October 2020.
+Table updated on Sunday, 18. October 2020.
 <!-- updated_at ends -->
