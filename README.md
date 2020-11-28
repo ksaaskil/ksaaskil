@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-11-26
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-11-27
 |[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2020-11-22
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-11-15
 |[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|0|0|2020-10-18
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 27. November 2020.
+Table updated on Saturday, 28. November 2020.
 <!-- updated_at ends -->
