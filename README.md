@@ -4,7 +4,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- repositories starts -->
 
-## Repositories with most stars ([75 in total](https://github.com/ksaaskil?tab=repositories))
+## Repositories with most stars ([76 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|9|3
@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-12-04
+|[learn-apache-beam](https://github.com/ksaaskil/learn-apache-beam)|0|0|2020-12-05
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-12-05
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-11-29
 |[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2020-11-22
 |[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|0|0|2020-10-18
-|[node-forge-signing-certs](https://github.com/ksaaskil/node-forge-signing-certs)|0|0|2020-09-17
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 05. December 2020.
+Table updated on Sunday, 06. December 2020.
 <!-- updated_at ends -->
