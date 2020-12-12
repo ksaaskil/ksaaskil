@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2020-12-10
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-12-10
-|[learn-apache-beam](https://github.com/ksaaskil/learn-apache-beam)|0|0|2020-12-05
-|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-11-29
-|[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2020-11-22
+|[posenet-demo](https://github.com/ksaaskil/posenet-demo)|0|0|2020-12-12
+|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2020-12-11
+|[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2020-12-11
+|[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2020-12-11
+|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|5|0|2020-12-11
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 11. December 2020.
+Table updated on Saturday, 12. December 2020.
 <!-- updated_at ends -->
