@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2020-12-13
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-12-13
 |[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2020-12-12
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-12-12
 |[posenet-demo](https://github.com/ksaaskil/posenet-demo)|0|0|2020-12-12
 |[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2020-12-11
-|[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2020-12-11
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Sunday, 13. December 2020.
+Table updated on Monday, 14. December 2020.
 <!-- updated_at ends -->
