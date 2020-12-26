@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-12-24
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2020-12-25
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2020-12-19
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2020-12-13
 |[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2020-12-12
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 25. December 2020.
+Table updated on Saturday, 26. December 2020.
 <!-- updated_at ends -->
