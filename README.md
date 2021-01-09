@@ -4,7 +4,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- repositories starts -->
 
-## Repositories with most stars ([76 in total](https://github.com/ksaaskil?tab=repositories))
+## Repositories with most stars ([77 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|9|3
@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-01-07
+|[tutorial-environment](https://github.com/ksaaskil/tutorial-environment)|0|0|2021-01-08
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-01-08
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|5|0|2021-01-05
 |[katacoda-playground](https://github.com/ksaaskil/katacoda-playground)|0|0|2021-01-05
 |[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2021-01-05
-|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-01-03
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 08. January 2021.
+Table updated on Saturday, 09. January 2021.
 <!-- updated_at ends -->
