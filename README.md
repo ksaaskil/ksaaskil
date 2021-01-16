@@ -7,7 +7,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Repositories with most stars ([78 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
-|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|9|3
+|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|10|3
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|5|0
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|3|1
 |[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0
@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-01-14
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-01-15
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-01-09
 |[concurrency-examples](https://github.com/ksaaskil/concurrency-examples)|0|0|2021-01-09
 |[tutorial-environment](https://github.com/ksaaskil/tutorial-environment)|0|0|2021-01-08
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 15. January 2021.
+Table updated on Saturday, 16. January 2021.
 <!-- updated_at ends -->
