@@ -12,11 +12,11 @@ import os
 import re
 import typing
 
-from typing_extensions import Literal
 
 from dotenv import load_dotenv
 from gql import Client, gql
 from gql.transport.requests import RequestsHTTPTransport
+from typing_extensions import Literal
 
 load_dotenv()
 
@@ -31,19 +31,19 @@ REPOSITORIES_QUERY = gql(
     """
 query($number_of_repos:Int!, $desc_by:RepositoryOrderField!) {
   viewer {
-     repositories(first: $number_of_repos, orderBy: {field:$desc_by, direction:DESC}) {
-       totalCount
-       nodes {
-         name
-         forkCount
-		 url
-         pushedAt
-         stargazers {
-          totalCount
-         }
-       }
-     }
-   }
+    repositories(first: $number_of_repos, orderBy: {field:$desc_by, direction:DESC}) {
+      totalCount
+      nodes {
+        name
+        forkCount
+		url
+        pushedAt
+        stargazers {
+         totalCount
+        }
+      }
+    }
+  }
 }
 """
 )
