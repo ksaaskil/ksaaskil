@@ -12,6 +12,8 @@ import os
 import re
 import typing
 
+from typing_extensions import Literal
+
 from dotenv import load_dotenv
 from gql import Client, gql
 from gql.transport.requests import RequestsHTTPTransport
@@ -77,7 +79,7 @@ def gql_response_to_repositories(
     )
 
 
-DESC_BY = typing.Union[typing.Literal["STARGAZERS"], typing.Literal["PUSHED_AT"]]
+DESC_BY = typing.Union[Literal["STARGAZERS"], Literal["PUSHED_AT"]]
 
 
 def get_repositories(desc_by: DESC_BY, count=5):
