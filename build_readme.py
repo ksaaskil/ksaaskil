@@ -161,7 +161,7 @@ if __name__ == "__main__":
 
     readme_content = readme.open("r").read()
 
-    updated_at_md = "Table updated on {date}.".format(
+    updated_at_md = "Table updated on {date}. See the code [here](https://github.com/ksaaskil/ksaaskil).".format(
         date=datetime.now(timezone.utc).strftime("%A, %d. %B %Y")
     )
 
