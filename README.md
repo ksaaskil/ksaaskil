@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-04-04
+|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|1|0|2021-04-05
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-04-05
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-04-02
 |[django-rbac](https://github.com/ksaaskil/django-rbac)|0|0|2021-04-02
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2021-04-01
-|[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2021-03-31
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Monday, 05. April 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Tuesday, 06. April 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
