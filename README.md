@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-04-07
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-04-08
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|1|0|2021-04-05
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-04-02
 |[django-rbac](https://github.com/ksaaskil/django-rbac)|0|0|2021-04-02
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Thursday, 08. April 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Friday, 09. April 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
