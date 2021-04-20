@@ -11,7 +11,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|6|0
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|3|2
 |[liquid-solid](https://github.com/ksaaskil/liquid-solid)|3|2
-|[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0
+|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|2|0
 
 <!-- repositories ends -->
 <!-- recent_repositories starts -->
@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-04-19
+|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2021-04-19
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-04-19
 |[django-rbac](https://github.com/ksaaskil/django-rbac)|0|0|2021-04-18
-|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-04-18
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-04-18
 |[kafka-streams-wordcount](https://github.com/ksaaskil/kafka-streams-wordcount)|0|0|2021-04-15
-|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|1|0|2021-04-05
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Monday, 19. April 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Tuesday, 20. April 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
