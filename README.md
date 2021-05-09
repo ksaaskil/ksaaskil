@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2021-05-07
-|[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2021-05-07
-|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2021-05-07
-|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2021-05-07
-|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-05-07
+|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2021-05-08
+|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-05-08
+|[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2021-05-08
+|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|6|0|2021-05-08
+|[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2021-05-08
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 08. May 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Sunday, 09. May 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
