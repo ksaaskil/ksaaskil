@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-05-27
+|[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2021-05-27
+|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2021-05-27
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-05-27
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2021-05-26
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-05-26
-|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|6|0|2021-05-25
-|[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2021-05-25
-|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2021-05-25
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Thursday, 27. May 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Friday, 28. May 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
