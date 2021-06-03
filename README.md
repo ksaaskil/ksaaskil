@@ -4,7 +4,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- repositories starts -->
 
-## Repositories with most stars ([83 in total](https://github.com/ksaaskil?tab=repositories))
+## Repositories with most stars ([84 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|12|5
@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[detectron2-learn](https://github.com/ksaaskil/detectron2-learn)|0|0|2021-06-02
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-06-02
 |[ml-project-template](https://github.com/ksaaskil/ml-project-template)|0|0|2021-06-01
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-06-01
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2021-05-28
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-05-27
-|[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2021-05-27
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Wednesday, 02. June 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Thursday, 03. June 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
