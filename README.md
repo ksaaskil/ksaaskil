@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-06-17
 |[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2021-06-16
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-06-16
 |[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2021-06-15
 |[dvc-learn](https://github.com/ksaaskil/dvc-learn)|0|0|2021-06-15
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2021-06-10
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Thursday, 17. June 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Friday, 18. June 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
