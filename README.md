@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-07-21
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2021-07-20
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-07-20
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-07-01
 |[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2021-06-30
 |[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2021-06-30
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Wednesday, 21. July 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Thursday, 22. July 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
