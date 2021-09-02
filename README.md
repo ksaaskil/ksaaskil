@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-08-31
-|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|13|5|2021-08-15
-|[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2021-08-12
-|[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2021-08-12
-|[posenet-demo](https://github.com/ksaaskil/posenet-demo)|0|0|2021-08-11
+|[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2021-09-01
+|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|7|0|2021-09-01
+|[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2021-09-01
+|[codesandbox-jest-ts-node](https://github.com/ksaaskil/codesandbox-jest-ts-node)|0|0|2021-09-01
+|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-09-01
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Wednesday, 01. September 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Thursday, 02. September 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
