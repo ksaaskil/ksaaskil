@@ -19,8 +19,8 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-11-04
 |[dvc-learn](https://github.com/ksaaskil/dvc-learn)|0|0|2021-11-03
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-11-03
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2021-10-06
 |[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2021-10-05
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2021-10-05
