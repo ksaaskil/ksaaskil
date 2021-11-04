@@ -1,4 +1,4 @@
-Hi! I'm Kimmo, a software developer at [Silo AI](https://silo.ai/).
+Hi! I'm Kimmo, a software developer.
 
 See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
