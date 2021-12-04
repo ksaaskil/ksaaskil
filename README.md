@@ -7,7 +7,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Repositories with most stars ([87 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
-|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|14|6
+|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|14|7
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|8|0
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|3|1
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|3|2
@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-12-02
+|[k8s-learn](https://github.com/ksaaskil/k8s-learn)|0|0|2021-12-03
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-12-03
 |[kubeflow-learn](https://github.com/ksaaskil/kubeflow-learn)|0|0|2021-11-20
 |[dvc-learn](https://github.com/ksaaskil/dvc-learn)|0|0|2021-11-03
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2021-10-06
-|[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2021-10-05
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 03. December 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Saturday, 04. December 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
