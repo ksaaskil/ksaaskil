@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|14|7|2021-12-04
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-12-04
 |[k8s-learn](https://github.com/ksaaskil/k8s-learn)|0|0|2021-12-03
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2021-12-03
 |[kubeflow-learn](https://github.com/ksaaskil/kubeflow-learn)|0|0|2021-11-20
 |[dvc-learn](https://github.com/ksaaskil/dvc-learn)|0|0|2021-11-03
-|[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2021-10-06
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 04. December 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Sunday, 05. December 2021. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
