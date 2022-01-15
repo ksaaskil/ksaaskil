@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2022-01-14
+|[node-forge-signing-certs](https://github.com/ksaaskil/node-forge-signing-certs)|0|0|2022-01-14
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-01-14
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|8|0|2022-01-13
 |[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2022-01-13
-|[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2022-01-13
-|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2022-01-13
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-01-13
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 14. January 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Saturday, 15. January 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
