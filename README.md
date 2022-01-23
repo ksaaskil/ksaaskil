@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2|2022-01-22
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-01-22
 |[feast-learn](https://github.com/ksaaskil/feast-learn)|0|0|2022-01-21
 |[spark-delta-lake-learn](https://github.com/ksaaskil/spark-delta-lake-learn)|0|0|2022-01-21
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-01-21
 |[pipelines](https://github.com/ksaaskil/pipelines)|0|0|2022-01-20
-|[birdclef-2021](https://github.com/ksaaskil/birdclef-2021)|0|0|2022-01-16
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 22. January 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Sunday, 23. January 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
