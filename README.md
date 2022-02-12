@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2022-02-10
-|[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2022-02-10
-|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2022-02-10
-|[codesandbox-jest-ts-node](https://github.com/ksaaskil/codesandbox-jest-ts-node)|0|0|2022-02-10
-|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2022-02-10
+|[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2022-02-11
+|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2022-02-11
+|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2022-02-11
+|[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2|2022-02-11
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-02-11
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 11. February 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Saturday, 12. February 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
