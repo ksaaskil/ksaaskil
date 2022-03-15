@@ -8,7 +8,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|15|7
-|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|9|0
+|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|10|0
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|7|1
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2
 |[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|3|4
@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-03-13
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-03-14
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2022-03-02
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2022-02-27
 |[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2022-02-26
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Monday, 14. March 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Tuesday, 15. March 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
