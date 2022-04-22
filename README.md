@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-04-21
 |[spark-delta-lake-learn](https://github.com/ksaaskil/spark-delta-lake-learn)|0|0|2022-04-20
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-04-20
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2022-04-09
 |[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2022-04-09
 |[node-forge-signing-certs](https://github.com/ksaaskil/node-forge-signing-certs)|0|0|2022-03-23
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Thursday, 21. April 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Friday, 22. April 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
