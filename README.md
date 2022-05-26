@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-05-24
+|[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2022-05-25
+|[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2022-05-25
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-05-25
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2022-04-29
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2022-04-29
-|[katacoda-playground](https://github.com/ksaaskil/katacoda-playground)|0|0|2022-04-28
-|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2022-04-28
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Wednesday, 25. May 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Thursday, 26. May 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
