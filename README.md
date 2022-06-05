@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-06-04
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2022-06-03
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-06-03
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2022-06-02
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2022-06-01
 |[mediate-react-frontend](https://github.com/ksaaskil/mediate-react-frontend)|0|0|2022-06-01
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 04. June 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Sunday, 05. June 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
