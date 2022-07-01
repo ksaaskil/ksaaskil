@@ -9,7 +9,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|15|7
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0
-|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|7|1
+|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|8|1
 |[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|5|4
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2
 
@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-06-29
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-06-30
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0|2022-06-22
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2022-06-03
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2022-06-02
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Thursday, 30. June 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Friday, 01. July 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
