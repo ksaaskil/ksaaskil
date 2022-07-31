@@ -7,7 +7,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Repositories with most stars ([92 in total](https://github.com/ksaaskil?tab=repositories))
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
-|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|15|7
+|[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|16|8
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|8|1
 |[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|5|4
@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-07-29
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2022-07-30
 |[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2022-07-21
 |[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2022-07-20
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2022-07-20
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 30. July 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Sunday, 31. July 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
