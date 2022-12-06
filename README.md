@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2022-12-05
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2022-12-05
 |[posenet-demo](https://github.com/ksaaskil/posenet-demo)|0|0|2022-12-04
 |[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2022-12-04
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2022-12-04
-|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0|2022-12-04
-|[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2022-12-04
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Monday, 05. December 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Tuesday, 06. December 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
