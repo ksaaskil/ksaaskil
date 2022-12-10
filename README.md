@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[phaser3-game](https://github.com/ksaaskil/phaser3-game)|0|0|2022-12-08
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2022-12-08
-|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2022-12-06
-|[client-server-tensorflow](https://github.com/ksaaskil/client-server-tensorflow)|0|1|2022-12-06
-|[introduction-to-property-based-testing](https://github.com/ksaaskil/introduction-to-property-based-testing)|2|0|2022-12-05
+|[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2|2022-12-09
+|[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0|2022-12-09
+|[katacoda-playground](https://github.com/ksaaskil/katacoda-playground)|0|0|2022-12-09
+|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2022-12-09
+|[mediate-nodejs-backend](https://github.com/ksaaskil/mediate-nodejs-backend)|0|1|2022-12-09
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Friday, 09. December 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Saturday, 10. December 2022. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
