@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2023-01-06
+|[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2023-01-07
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2023-01-07
 |[chuck-joke-app](https://github.com/ksaaskil/chuck-joke-app)|0|0|2023-01-04
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0|2023-01-04
 |[codesandbox-jest-ts-node](https://github.com/ksaaskil/codesandbox-jest-ts-node)|0|0|2023-01-04
-|[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2|2023-01-04
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 07. January 2023. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Sunday, 08. January 2023. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
