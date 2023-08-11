@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2023-08-09
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2023-08-09
+|[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2023-08-10
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2023-08-10
 |[climate-app](https://github.com/ksaaskil/climate-app)|0|0|2023-06-10
 |[track-my-bus-hsl](https://github.com/ksaaskil/track-my-bus-hsl)|0|0|2023-06-10
 |[codesandbox-jest-ts-browser](https://github.com/ksaaskil/codesandbox-jest-ts-browser)|0|0|2023-01-07
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Thursday, 10. August 2023. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Friday, 11. August 2023. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
