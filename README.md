@@ -10,7 +10,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|20|11
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0
 |[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|10|1
-|[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|5|3
+|[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|4|3
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2
 
 <!-- repositories ends -->
@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2023-10-01
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2023-10-02
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2023-08-11
 |[climate-app](https://github.com/ksaaskil/climate-app)|0|0|2023-06-10
 |[track-my-bus-hsl](https://github.com/ksaaskil/track-my-bus-hsl)|0|0|2023-06-10
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Monday, 02. October 2023. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Tuesday, 03. October 2023. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
