@@ -8,8 +8,8 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 | Name        | Stars           | Forks  |
 | ------------- |-------------| -----|
 |[shc-python-tools](https://github.com/ksaaskil/shc-python-tools)|21|11
+|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|12|1
 |[functional-programming-examples](https://github.com/ksaaskil/functional-programming-examples)|12|0
-|[django-postgres-skaffold-k8s](https://github.com/ksaaskil/django-postgres-skaffold-k8s)|11|1
 |[django-vue3-template](https://github.com/ksaaskil/django-vue3-template)|4|3
 |[fp-gitlab-example](https://github.com/ksaaskil/fp-gitlab-example)|4|2
 
@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2023-12-31
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|2|0|2024-01-01
 |[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2023-11-26
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2023-10-29
 |[climate-app](https://github.com/ksaaskil/climate-app)|0|0|2023-06-10
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Monday, 01. January 2024. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Tuesday, 02. January 2024. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
