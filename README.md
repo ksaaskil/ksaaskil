@@ -19,13 +19,13 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2024-04-02
 |[kurppa](https://github.com/ksaaskil/kurppa)|0|0|2024-04-01
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2024-04-01
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2024-03-25
 |[openai-speech-to-text](https://github.com/ksaaskil/openai-speech-to-text)|0|0|2024-03-09
 |[ksaaskil.github.io](https://github.com/ksaaskil/ksaaskil.github.io)|0|0|2023-11-26
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Tuesday, 02. April 2024. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Wednesday, 03. April 2024. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
