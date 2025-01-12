@@ -19,7 +19,7 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 ## Most recently updated
 | Name        | Stars           | Forks  | Updated at
 | ------------- |-------------| -----|-----|
-|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2025-01-10
+|[ksaaskil](https://github.com/ksaaskil/ksaaskil)|1|0|2025-01-11
 |[kimmosaaskilahti.fi](https://github.com/ksaaskil/kimmosaaskilahti.fi)|0|0|2025-01-06
 |[dotfiles](https://github.com/ksaaskil/dotfiles)|0|0|2024-11-03
 |[kurppa](https://github.com/ksaaskil/kurppa)|0|0|2024-10-27
@@ -27,5 +27,5 @@ See my online resume at [ksaaskil.github.io](https://ksaaskil.github.io).
 
 <!-- recent_repositories ends -->
 <!-- updated_at starts -->
-Table updated on Saturday, 11. January 2025. See the code [here](https://github.com/ksaaskil/ksaaskil).
+Table updated on Sunday, 12. January 2025. See the code [here](https://github.com/ksaaskil/ksaaskil).
 <!-- updated_at ends -->
